@@ -1,0 +1,20 @@
+#numberPad {
+  width: 500px;
+  height: 200px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+#operators {
+  width: 500px;
+  height: 100px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+#textWindow {
+  width: 500px;
+  height: 75px;
+  text-align: right;
+  border: groove;
+}
